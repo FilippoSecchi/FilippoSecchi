@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/FilippoSecchi"><img src="https://api.daily.dev/devcards/b09058d749424fc4a4f046db7dc6f31a.png?r=xij" width="400" alt="Filippo Secchi's Dev Card"/></a>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filippo-secchi-b35b6540) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14101154) 
