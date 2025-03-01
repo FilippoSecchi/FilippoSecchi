@@ -14,6 +14,10 @@
 
 ###
 
+<h2 align="center">My Skills Ecosystem</h2>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript"  />
   <img width="12" />
