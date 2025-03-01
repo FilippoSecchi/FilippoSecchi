@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="30" alt="postman" />
   <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" height="30" alt="redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" height="30" alt="redis" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"  />
   <img width="12" />
@@ -33,7 +33,7 @@
   <img width="12" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react.js"  />
   <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="30" alt="redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="30" alt="redux" />
   <img width="12" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5"  />
   <img width="12" />
@@ -47,10 +47,5 @@
 
 
 <br clear="both">
-
-###
-
-<img src="https://raw.githubusercontent.com/FilippoSecchi/FilippoSecchi/output/snake.svg" alt="Snake animation" />
-![GitHub Snake](https://github.com/FilippoSecchi/FilippoSecchi/raw/output/dist/snake.svg)
 
 ###
