@@ -51,5 +51,6 @@
 ###
 
 <img src="https://raw.githubusercontent.com/FilippoSecchi/FilippoSecchi/output/snake.svg" alt="Snake animation" />
+![GitHub Snake](https://github.com/FilippoSecchi/FilippoSecchi/raw/output/dist/snake.svg)
 
 ###
