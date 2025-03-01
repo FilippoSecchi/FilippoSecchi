@@ -47,3 +47,9 @@
 
 
 <br clear="both">
+
+###
+
+<img src="https://raw.githubusercontent.com/FilippoSecchi/FilippoSecchi/output/snake.svg" alt="Snake animation" />
+
+###
