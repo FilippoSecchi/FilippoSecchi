@@ -1,9 +1,8 @@
 
 
 ## 🌐Socials
-<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filippo-secchi-b35b6540) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14101154) 
-</div>
+
 
 <h2 align="center">Hi 👋! My name is Filippo and I'm a Full-stack Developer, from Italy</h2>
 
