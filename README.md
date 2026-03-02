@@ -5,16 +5,7 @@
 
 
 <h2 align="center">Hi 👋! My name is Filippo and I'm a Full-stack Developer from Italy</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FilippoSecchi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<h2 align="center">My Skills Ecosystem</h2>
+<h3 align="center">My Skills Ecosystem</h3>
 
 ###
 
