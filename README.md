@@ -4,106 +4,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/filippo-secchi-b35b6540) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14101154) 
 
 
-<h2 align="center">Hi 👋! My name is Filippo and I'm a Full-stack Developer from Italy</h2>
-<h3 align="center">My Skills Ecosystem</h3>
+<h2 align="left">Principal AI Architect, Zero Trust Cloud Security Architect & Staff Software Engineer | Inventor & Chief Systems Architect @ OMNILAY — The Cognitive Execution Layer (CEL)</h2>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="typescript"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python"  />
-  <img width="12" />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="48" alt="php" />
-</div>
-
+<h3 align="left">About me/h3>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="48" alt="node.js"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="48" alt="express" />
-  <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="48" alt="rabbotMQ" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain-wordmark.svg" height="48" alt="redis" />
-  <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" height="48" alt="socketIO" />
-</div>
+<p align="left">With over 20 years of experience, I specialize in designing innovative software architectures and cognitive systems that empower organizations to achieve operational excellence. As the Founder and Chief Systems Architect at OMNILAY, I lead the development of the groundbreaking Cognitive Execution Layer (CEL), leveraging multi-model, multi-engine architectures to optimize task execution and drive efficiency. Passionate about scalable and secure systems, I thrive in building solutions that align with organizational goals and deliver transformative results.  </p>
 
+<p align="left">At OMNILAY, I spearhead a self-improving cognitive orchestration layer, engineered on a state-of-the-art Dual-Brain Neural System. This system integrates distributed caching, graph databases, and vector databases into a synchronized Super-Memory architecture, eliminating LLM hallucinations and optimizing performance. My focus remains on advancing self-evolving technologies, ensuring cost efficiency, and enabling robust, scalable solutions tailored to user needs.</p>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="48" alt="github" />
-  <img width="12" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48" alt="docker" />
-  <img width="12" />        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="48" alt="Amazon Web Services" />
-  <img width="12" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" height="48" alt="heroku" />
-   <img width="12" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="48" alt="mpm" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="48" alt="postman" />
-</div>
-
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="48" alt="next.js"  />
-  <img width="12" />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react.js"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="48" alt="redux" />
-  <img width="12" />     
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" height="48" alt="vue" />
-  <img width="12" />
-             
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" height="48" alt="electron" />
-</div>
-
-###
-
-<div align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="48" alt="mysql" />
-  <img width="12" />    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="48" alt="postgres" />
-  <img width="12" />    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="48" alt="mongodb" />
-  <img width="12" />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" height="48" alt="dynamodb" />
-  <img width="12" />    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="48" alt="sqlite"  />
-          
-</div>
-
-###
-
-<div align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="48" alt="prisma" />
-  <img width="12" />    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" height="48" alt="mongoose" />          
-  <img width="12" />    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" height="48" alt="sequelize" />          
-  <img width="12" />    
-</div>
-
-
-
-            
-          
-
-<br clear="both">
-
-###
